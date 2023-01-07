@@ -8,7 +8,7 @@ Import math library using import math
 ### Step 2: 
 Create two lists and give values to each of them
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula](formula.jpg)
 ### Step 4: 
 Use the given formula to get the output, give x1 as the first value of list1 and x2 as the first value of list2, y1 as the second value of list1 and y2 as the second value of list2
 ### Step 5: 
